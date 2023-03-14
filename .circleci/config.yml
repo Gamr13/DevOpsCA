@@ -1,6 +1,6 @@
 # CircleCI configuration file
 
-version 2.1
+version: 2.1
   
 workflows:
     version: 2
